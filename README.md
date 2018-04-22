@@ -5,8 +5,8 @@ This is a test repo.
 ---------------------
 Example of list
 1. item 1
-   a. subitem a
-   b. subitem b
+   1. subitem 1
+   2. subitem 2
 2. item 2
 3. item 3
 ---------------------
