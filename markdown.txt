@@ -1,0 +1,41 @@
+# H1
+## H2
+...
+
+*emphasis*
+
+numbered lists
+1.item 1
+  1. subitem 1
+  2. subitem 2
+2.item 2
+
+unordered lists
+*
+-
+
+[link text](url)
+
+```python
+v = "this is a test"
+```
+
+Tables
+
+|c1  | c2 | c3 |
+| --- | :---: | ---: |
+| val1 | val2 | val3 |
+
+
+> This is a blockquote.
+> 2nd line
+
+horizontal rule
+------------------
+
+======================
+(use <Enter> for line break)
+
+***************
+
+

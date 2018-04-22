@@ -1,0 +1,13 @@
+git clone <url-to-repo>
+
+git status
+
+git add -A
+git commit -m "<message>"
+
+git push 
+	# push to cloud
+
+git pull
+	# pull from cloud
+
